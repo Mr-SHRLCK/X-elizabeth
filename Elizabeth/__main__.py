@@ -39,9 +39,9 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
-`I'm`  єlízαвєth
-`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
+HEY WELCOME ITS CHIEF A PROJECT OFF🅿️ʏȶɦօռ 🅿️ɨʀǟȶɛֆ ( @PYTHONPIRATES) A POWERFUL GROUP MANAGING BOT WHICH CAN PROVIDE YOU BEST SERVICE EVER  [☀️](https://telegra.ph/file/c9277b3ea2954b57b5600.jpg)
+`I'🔱【C】【H】【I】【E】【F】🔱 🅿️ʏȶɦօռ 🅿️ɨʀǟȶɛֆ
+`MY COMMAND HENDLER IS + SO TYPE +START AND USE THE BUTTONS BELOW TO UTILIZE FEATURES 
 """
 
 buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
@@ -55,7 +55,7 @@ buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
                                   url="https://t.me/MR_SHRLOCK/49"),
              InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
+                                  url="https://t.me/python_pirates"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
@@ -63,8 +63,8 @@ buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
-`Click on the buttons below to get documentation about specific modules..`"""
+`ITS 🔱【C】【H】【I】【E】【F】🔱 🅿️ʏȶɦօռ 🅿️ɨʀǟȶɛֆ (https://telegra.ph/file/3892f63e3fdcbb74cb46e.jpg)
+`Click on the buttons below to operate mee
 
 
 IMPORTED = {}
